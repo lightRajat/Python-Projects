@@ -1,0 +1,8 @@
+1. Don't mess with this directory on your own, such as modifying file or its name.
+2. Open the text file "DataBase Server.txt" located in this directory.
+3. Change the User and Password for the local server located on your computer in the text file.
+4. Open "MySQL Workbench" on your computer.
+5. Open the server whose username and password you had mentioned earlier.
+6. Open the "credentials.sql" file located in this directory in the Workbench and execute the script.
+7. Exit the application and run "Bank Management System.py" file and you are ready to go.
+8. Don't forget to ask the user credentials from Rajat.
